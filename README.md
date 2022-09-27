@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://md-mahmudul-hasan.netlify.app/](https://md-mahmudul-hasan.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **dearmahmud.bd@gmail.com**
 
-- 📄 Know about my experiences [https://md-mahmudul-hasan.netlify.app/](https://md-mahmudul-hasan.netlify.app/)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
