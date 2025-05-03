@@ -1,73 +1,127 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-mahmudul-hasan-bd/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:dearmahmud.bd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/0mdmahmudulhasan0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dear-mahmud-bd.dear-mahmud-bd&"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Md. Mahmudul Hasan</h1>
-<h3 align="center">Currently, I'm a student of computer science and engineering 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dear-mahmud-bd&label=Profile%20views&color=0e75b6&style=flat" alt="dear-mahmud-bd" /> </p>
+###
 
-- 🌱 I’m currently learning **Data structure and Algorithm**
+<h3 align="left">💫  About Me</h3>
 
-- 👨‍💻 All of my projects are available at 
+###
 
-- 📫 How to reach me **dearmahmud.bd@gmail.com**
+<p align="left">🌱I am a passionate and curious learner with a strong drive to apply technology to solve real-world problems. My vision is to become a leading applied scientist and engineer, contributing to future-defining fields like artificial intelligence, healthcare innovation, and personalized education. I aim to create impactful solutions that improve lives by combining deep technical knowledge with a clear understanding of human needs.<br><br>🔭 I’m working as a Full-Stack Developer specializing in MERN<br><br>📚 I'm currently learning TypeScript, Next.js, and backend integration with Node.js<br><br>⚡ In my free time I build side projects, explore new tech, and watch programming tutorials</p>
 
-- 📄 Know about my experiences 
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-mahmudul-hasan-bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahmudul-hasan-bd" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/19156853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/stack-overflow.svg" alt="19156853" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/@dear-mahmud-bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/hackerearth.svg" alt="@dear-mahmud-bd" height="30" width="40" />
-</a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/730846" target="blank"><img align="center"                       src="https://community.vtex.com/uploads/default/optimized/2X/e/e077f658776612311527fdb613ba8b54e8e5e92c_2_545x500.png" alt="@dear-mahmud-bd" height="30" width="40" />  </a>
-</p>  
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-   </a>  
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-   </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-   </a>  
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-   </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   </a> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-   </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-   </a> 
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-   </a> 
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-   </a> 
-   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-   </a>
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-   </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-   </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-   </a> 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />  
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">💻🧑‍🎨 Frontend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<h3 align="left">🔧🗄️ Backend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+</div>
+
+
+## 🔥 GitHub Stats
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dear-mahmud-bd&layout=compact&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="Top Languages" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dear-mahmud-bd&show_icons=true&locale=en&layout=compact" alt="dear-mahmud-bd" /></p>
+<!-- GitHub Stats and Streak Side-by-Side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dear-mahmud-bd&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dear-mahmud-bd&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dear-mahmud-bd&show_icons=true&locale=en" alt="dear-mahmud-bd" /></p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dear-mahmud-bd&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+###
